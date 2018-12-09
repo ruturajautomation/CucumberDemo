@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="57.641432">
+<testcase classname="Try to Learn Automation" name="Login and find the Automation" time="57.641432">
+<system-out><![CDATA[Given User is already on login page.........................................passed
+When Title of login page is Facebook........................................passed
+Then User enters "naveenk" and "test@123"...................................passed
+And user clicks on facebook.................................................passed
+And Close the Browser.......................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
